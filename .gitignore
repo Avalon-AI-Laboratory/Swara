@@ -9,4 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-data/data
+data/data/*
+!data/data/.gitkeep
