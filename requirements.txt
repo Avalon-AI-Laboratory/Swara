@@ -15,4 +15,7 @@ tqdm
 wandb
 typing
 typing-extensions
+pandas
+phonemizer
+lingua-language-detector
 git+https://github.com/resemble-ai/monotonic_align.git

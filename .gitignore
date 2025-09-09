@@ -214,3 +214,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom data rules
+data/data/*
+!data/data/.gitkeep

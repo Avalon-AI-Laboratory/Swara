@@ -5,6 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "lingua-language-detector>=2.1.1",
+    "pandas>=2.3.2",
+    "phonemizer>=3.3.0",
     "accelerate>=1.10.1",
     "einops>=0.8.1",
     "einops-exts>=0.0.4",

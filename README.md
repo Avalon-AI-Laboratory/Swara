@@ -30,6 +30,12 @@ Install project dependencies.
 uv pip install -e .
 ```
 
+Or
+
+```bash
+uv sync
+```
+
 Create `.env` to store token credentials for `wandb`
 
 ```bash
